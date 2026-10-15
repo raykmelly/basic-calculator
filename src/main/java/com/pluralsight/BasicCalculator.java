@@ -12,6 +12,7 @@ public class BasicCalculator {
         System.out.println("Enter the second number: ");
         int num2 = scanner.nextInt();
 
+        // New line to add a space
         System.out.println();
 
         // Give options to the user to complete actions
